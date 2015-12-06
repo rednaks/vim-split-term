@@ -3,7 +3,7 @@
 
 ## Introduction
 
-vim-split_term is a NeoVim helper plugin that opens new terminal in a splitted window.
+vim-split_term is a NeoVim helper plugin that opens new terminal in a splitted window or in a new tab.
 
 ## Install
 
@@ -12,11 +12,13 @@ You should have [Pathogen](https://github.com/tpope/vim-pathogen) installed.
 
 ## Usage
 
-It's very like `split` and `vsplit` to edit your files : 
+It's very like `split`, `vsplit` or `tabedit` to edit your files : 
 
 `STerm` : new terminal in horizontally splitted window.
 
 `VsTerm` : new terminal in vertically splitted window.
+
+`TabTerm` : new terminal in a new tab.
 
 ## Licence
 

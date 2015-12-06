@@ -15,8 +15,15 @@ function STerm()
 endfunction
 
 
+function TabTerm()
+  execute "tabedit"
+  execute "terminal"
+endfunction
+
 command! VsTerm call VsTerm()
 command! STerm call STerm()
+
+command! TabTerm call TabTerm()
 
 " }}}1
 
