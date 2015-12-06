@@ -15,6 +15,7 @@ You should have [Pathogen](https://github.com/tpope/vim-pathogen) installed.
 It's very like `split` and `vsplit` to edit your files : 
 
 `STerm` : new terminal in horizontally splitted window.
+
 `VsTerm` : new terminal in vertically splitted window.
 
 ## Licence
