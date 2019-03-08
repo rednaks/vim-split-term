@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="./images/split-term-logo.png" alt="neojs">
+  <br>
+  <br>
+</h1>
 
 # vim-split-term
 
